@@ -64,4 +64,4 @@ The repository contains SPICE netlists (`.sp`) for a comprehensive library of qu
 ## Repository File Structure
 *   `*.sp` - HSPICE netlist files containing the circuit topology and transient analysis directives.
 *   `*.lib` - CNFET parameter and technology library files required for simulation.
-*   `report.docx` - Comprehensive project report containing theoretical background, truth tables, and CosmosScope output waveforms.
+*   `report.pdf` - Comprehensive project report containing theoretical background, truth tables, and CosmosScope output waveforms.
